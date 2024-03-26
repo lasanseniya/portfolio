@@ -1,0 +1,38 @@
+{
+  "job": "Software Engineering Undergraduate",
+  "name": "Lasan Ranatunge",
+  "desc": "Building stuff with blocks of code... and caffeine",
+  "email": "lasanseniya@gmail.com",
+  "status": "on",
+  "hireMeLink": "https://aiapply.co/r/660217f8a09fd",
+  "projects": [
+    {
+      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-name": "Nova Web App",
+      "project-desc": "GPT 3.5 powered MERN stack web app",
+      "project-url": "https://nova-web-app.vercel.app/"
+    },
+    {
+      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-name": "Shopping manager",
+      "project-desc": "Java CLI/GUI shopping manager application",
+      "project-url": "https://github.com/lasanseniya/shopping-manager"
+    },
+    {
+      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-name": "Grade calculator",
+      "project-desc": "Python university grade calculator CLI program",
+      "project-url": "https://github.com/lasanseniya/grade-calculator-cli"
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/lasanseniya"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "link": "https://www.linkedin.com/in/lasan-ranatunge-5958aa243/"
+    }
+  ]
+}
