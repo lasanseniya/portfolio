@@ -8,8 +8,8 @@
   "projects": [
     {
       "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
-      "project-name": "Nova Web App",
-      "project-desc": "GPT 3.5 powered MERN stack web app",
+      "project-name": "Nova - YT study notes generator",
+      "project-desc": "Youtube study notes generator web app (MERN + GPT 3.5)",
       "project-url": "https://github.com/lasanseniya/nova-web-app"
     },
     {
